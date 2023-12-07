@@ -2,15 +2,19 @@
 
 - title: Home
   url: /
-# - title: Posts
-#   url: /posts/
-# - title: Categories
-#   url: /categories/
-# - title: Tags
-#   url: /tags/
-# - title: Recipes
-#   url: /recipes/
-# - title: Search
-#   url: /search/
+- title: FSS
+  url: /fss/
+- title: News
+  url: /news/
+- title: People
+  url: /people/
+- title: Research
+  url: /research/
+- title: Courses
+  url: /courses/
+- title: Resources
+  url: /resources/
+- title: Contact
+  url: /contact/
 # - title: External Page
 #   url: https://the-page.com/you-want-to-link-to.html
